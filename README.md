@@ -1,0 +1,2 @@
+# PhotoShopApplication
+Eureka discovery server
